@@ -1,8 +1,8 @@
-from Class_for_BD import Database
-from Class_save_data import SaveToDB
-from Api_HH import ApiHH
+from src.Class_for_BD import Database
+from src.Class_save_data import SaveToDB
+from src.Api_HH import ApiHH
 from config import config
-from DB_params import DBManager
+from src.DB_params import DBManager
 
 
 def main():

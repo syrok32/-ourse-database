@@ -1,7 +1,7 @@
 import json
 import requests
-from Class_abstract import GetApiHH
-from Class_employers import Employers
+from src.Class_abstract import GetApiHH
+from src.Class_employers import Employers
 
 
 class ApiHH(GetApiHH):
