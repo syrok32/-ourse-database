@@ -1,0 +1,970 @@
+[
+    {
+        "employer_id": {
+            "id": "3643187",
+            "name": "001KZ (001КЗ)"
+        },
+        "vacancies": [
+            {
+                "id": "110804081",
+                "premium": false,
+                "name": "Сотрудник в пункт выдачи заказов",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 200000,
+                    "to": 270000,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-18T16:20:54+0300",
+                "created_at": "2024-11-18T16:20:54+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110804081",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/110804081?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/110804081",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/6016989.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/6016990.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1099094.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Желание предоставлять хороший сервис и грамотную консультацию. Уверенный пользователь ПК. Коммуникабельность и грамотная речь. Порядочность, внимательность, ответственность и оперативность.",
+                    "responsibility": "Вежливое обслуживание и консультация клиентов магазина. Поддержание полного ассортимента, наполнение и оформление торгового зала, выкладка товаров, своевременное обновление цен. "
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "shift",
+                    "name": "Сменный график"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "97",
+                        "name": "Продавец-консультант, продавец-кассир"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109872227",
+                "premium": false,
+                "name": "Специалист по работе с документами",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 175000,
+                    "to": 230000,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-01T15:11:52+0300",
+                "created_at": "2024-11-01T15:11:52+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109872227",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109872227?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109872227",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/6016989.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/6016990.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1099094.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Уверенный пользователь ПК. Знание стандартных программ Microsoft Office. Внимательность, ответственность и оперативность.",
+                    "responsibility": "Формирование, печать и распределение заказов к отправке, передача документов на склад. Оформление заявок в курьерские службы. Проверка не отгруженных заказов. "
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "shift",
+                    "name": "Сменный график"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "40",
+                        "name": "Другое"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "part",
+                    "name": "Частичная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109871904",
+                "premium": false,
+                "name": "Грузчик - упаковщик",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 250000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "проспект Суюнбая",
+                    "building": "258/4",
+                    "lat": 43.367657,
+                    "lng": 76.972154,
+                    "description": null,
+                    "raw": "Алматы, проспект Суюнбая, 258/4",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "12166165"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-16T15:09:33+0300",
+                "created_at": "2024-11-16T15:09:33+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109871904",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109871904?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109871904",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/6016989.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/6016990.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1099094.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Активность, аккуратность и внимательность. Ответственность и честность. Наличии удостоверения прав вождения на кару будет являться весомым преимуществом.",
+                    "responsibility": "Оперативно и бережно разгружать и погружать товар. Упаковка товара и подготовка к передаче в курьерскую службу."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "31",
+                        "name": "Грузчик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "noExperience",
+                    "name": "Нет опыта"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109460971",
+                "premium": false,
+                "name": "Бухгалтер по ЭСФ",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": null,
+                    "to": 350000,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-18T13:00:31+0300",
+                "created_at": "2024-11-18T13:00:31+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109460971",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109460971?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109460971",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/6016989.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/6016990.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1099094.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Знание бухгалтерского учета. 1С Бухгалтерия 8.3, 1С УТП.",
+                    "responsibility": "Знание заботы на портале ИС ЭСФ, виртуального склада (ВТ). Выписка электронных счетов-фактур (ЭСФ). Выписка сопроводительных накладных на товар из..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "18",
+                        "name": "Бухгалтер"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between3And6",
+                    "name": "От 3 до 6 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109057609",
+                "premium": false,
+                "name": "Менеджер в отдел закупок / Оператор базы 1с",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "160",
+                    "name": "Алматы",
+                    "url": "https://api.hh.ru/areas/160"
+                },
+                "salary": {
+                    "from": 260000,
+                    "to": null,
+                    "currency": "KZT",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Алматы",
+                    "street": "улица Муратбаева",
+                    "building": "180",
+                    "lat": 43.247073,
+                    "lng": 76.919791,
+                    "description": null,
+                    "raw": "Алматы, улица Муратбаева, 180",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "1811912"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-18T12:54:34+0300",
+                "created_at": "2024-11-18T12:54:34+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109057609",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109057609?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109057609",
+                "relations": [],
+                "employer": {
+                    "id": "3643187",
+                    "name": "001KZ (001КЗ)",
+                    "url": "https://api.hh.ru/employers/3643187",
+                    "alternate_url": "https://hh.ru/employer/3643187",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/6016989.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/6016990.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1099094.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3643187",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Высокая оперативность обработки данных, умение работать с шириной номенклатуры. Развитые навыки коммуникаций. Знание 1С (предпочтительно Управление торговлей). ",
+                    "responsibility": "Работа с поставщиками по оформлению заявок. Контроль проведения взаиморасчетов; контроль передачи данных в логистику. Контроль поступления товара. Контроль и оформление..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "66",
+                        "name": "Менеджер по закупкам"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            }
+        ]
+    },
+    {
+        "employer_id": {
+            "id": "2058312",
+            "name": "0250"
+        },
+        "vacancies": [
+            {
+                "id": "108911824",
+                "premium": false,
+                "name": "Менеджер по продажам",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": true,
+                "area": {
+                    "id": "104",
+                    "name": "Челябинск",
+                    "url": "https://api.hh.ru/areas/104"
+                },
+                "salary": {
+                    "from": null,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Челябинск",
+                    "street": "улица Цвиллинга",
+                    "building": "25к1",
+                    "lat": 55.163996,
+                    "lng": 61.40462,
+                    "description": null,
+                    "raw": "Челябинск, улица Цвиллинга, 25к1",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "641097"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-10-20T17:32:25+0300",
+                "created_at": "2024-10-20T17:32:25+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108911824",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/108911824?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/108911824",
+                "relations": [],
+                "employer": {
+                    "id": "2058312",
+                    "name": "0250",
+                    "url": "https://api.hh.ru/employers/2058312",
+                    "alternate_url": "https://hh.ru/employer/2058312",
+                    "logo_urls": {
+                        "240": "https://img.hhcdn.ru/employer-logo/7010763.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1347705.png",
+                        "90": "https://img.hhcdn.ru/employer-logo/7010762.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2058312",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Опыт работы менеджером активных продаж от 1 года. * Опыт работы в 1С: Предприятие.",
+                    "responsibility": "Обработка входящих заявок от действующих клиентов, консультирование (есть наработанная база клиентов). * Составление коммерческих предложений. * Переговоры, презентация продукта. * Активный поиск новых..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "70",
+                        "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109081450",
+                "premium": false,
+                "name": "Инженер-конструктор",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "104",
+                    "name": "Челябинск",
+                    "url": "https://api.hh.ru/areas/104"
+                },
+                "salary": {
+                    "from": 60000,
+                    "to": 90000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Челябинск",
+                    "street": "Троицкий тракт",
+                    "building": "1/1",
+                    "lat": 55.124696,
+                    "lng": 61.384956,
+                    "description": null,
+                    "raw": "Челябинск, Троицкий тракт, 1/1",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "16117666"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-10-22T19:12:07+0300",
+                "created_at": "2024-10-22T19:12:07+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109081450",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109081450?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109081450",
+                "relations": [],
+                "employer": {
+                    "id": "2058312",
+                    "name": "0250",
+                    "url": "https://api.hh.ru/employers/2058312",
+                    "alternate_url": "https://hh.ru/employer/2058312",
+                    "logo_urls": {
+                        "240": "https://img.hhcdn.ru/employer-logo/7010763.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1347705.png",
+                        "90": "https://img.hhcdn.ru/employer-logo/7010762.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2058312",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Что нужно знать и уметь: Работать в SOLIDWORKS, AutoCAD (3d, 2d), знание Archicad или другой программы по 3...",
+                    "responsibility": "Выполнять 3d моделирование МАФ из бетона, металла, дерева. Разрабатывать узлы соединения и крепления. Делать конструкторскую документацию для изготовления МАФ..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "48",
+                        "name": "Инженер-конструктор, инженер-проектировщик"
+                    }
+                ],
+                "accept_incomplete_resumes": false,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            }
+        ]
+    },
+    {
+        "employer_id": {
+            "id": "9677861",
+            "name": "036Kebab"
+        },
+        "vacancies": [
+            {
+                "id": "109915122",
+                "premium": false,
+                "name": "Повар",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 100000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Москва",
+                    "street": "Берсеневский переулок",
+                    "building": "5с1",
+                    "lat": 55.740983,
+                    "lng": 37.610323,
+                    "description": null,
+                    "raw": "Москва, Берсеневский переулок, 5с1",
+                    "metro": {
+                        "station_name": "Кропоткинская",
+                        "line_name": "Сокольническая",
+                        "station_id": "1.64",
+                        "line_id": "1",
+                        "lat": 55.745297,
+                        "lng": 37.604217
+                    },
+                    "metro_stations": [
+                        {
+                            "station_name": "Кропоткинская",
+                            "line_name": "Сокольническая",
+                            "station_id": "1.64",
+                            "line_id": "1",
+                            "lat": 55.745297,
+                            "lng": 37.604217
+                        },
+                        {
+                            "station_name": "Полянка",
+                            "line_name": "Серпуховско-Тимирязевская",
+                            "station_id": "9.115",
+                            "line_id": "9",
+                            "lat": 55.736795,
+                            "lng": 37.618594
+                        },
+                        {
+                            "station_name": "Третьяковская",
+                            "line_name": "Калужско-Рижская",
+                            "station_id": "6.90",
+                            "line_id": "6",
+                            "lat": 55.74073,
+                            "lng": 37.625624
+                        },
+                        {
+                            "station_name": "Третьяковская",
+                            "line_name": "Калининская",
+                            "station_id": "8.91",
+                            "line_id": "8",
+                            "lat": 55.741125,
+                            "lng": 37.626142
+                        }
+                    ],
+                    "id": "15954308"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-17T07:15:08+0300",
+                "created_at": "2024-11-17T07:15:08+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109915122",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109915122?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109915122",
+                "relations": [],
+                "employer": {
+                    "id": "9677861",
+                    "name": "036Kebab",
+                    "url": "https://api.hh.ru/employers/9677861",
+                    "alternate_url": "https://hh.ru/employer/9677861",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/7020306.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1350091.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/7020307.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9677861",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "Образование среднее специальное/высшее. Опыт работы – поваром не менее 1 лет. Опыт управления сотрудниками. Знание норм САНПИН, технологических нормативных документов. ",
+                    "responsibility": "Организация и контроль процесса приготовления блюд по технологическим картам. Участие в приготовлении блюд. Заготовка. Ежедневное составление заказа продукции внутренним и..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "94",
+                        "name": "Повар, пекарь, кондитер"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109474661",
+                "premium": false,
+                "name": "Бармен-официант",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 100000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": null,
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-18T15:46:51+0300",
+                "created_at": "2024-11-18T15:46:51+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109474661",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109474661?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109474661",
+                "relations": [],
+                "employer": {
+                    "id": "9677861",
+                    "name": "036Kebab",
+                    "url": "https://api.hh.ru/employers/9677861",
+                    "alternate_url": "https://hh.ru/employer/9677861",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/7020306.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1350091.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/7020307.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9677861",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": "ОТ ВАС: Опыт работы в потоковых заведениях от полугода. Готовность и желание быстро обучаться. Дружелюбное отношение, легкость в общении с...",
+                    "responsibility": "Общение с гостями, работа с кассой. Знание меню. Работа с программой IIko. Контроль чистоты зала и рабочего пространства. "
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "shift",
+                    "name": "Сменный график"
+                },
+                "working_days": [],
+                "working_time_intervals": [
+                    {
+                        "id": "from_four_to_six_hours_in_a_day",
+                        "name": "Можно сменами по 4-6 часов в день"
+                    }
+                ],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "89",
+                        "name": "Официант, бармен, бариста"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            },
+            {
+                "id": "109560982",
+                "premium": false,
+                "name": "Шеф-повар",
+                "department": null,
+                "has_test": false,
+                "response_letter_required": false,
+                "area": {
+                    "id": "1",
+                    "name": "Москва",
+                    "url": "https://api.hh.ru/areas/1"
+                },
+                "salary": {
+                    "from": 150000,
+                    "to": 200000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "type": {
+                    "id": "open",
+                    "name": "Открытая"
+                },
+                "address": {
+                    "city": "Москва",
+                    "street": "Большой Трёхсвятительский переулок",
+                    "building": "2/1с8",
+                    "lat": 55.754897,
+                    "lng": 37.642932,
+                    "description": null,
+                    "raw": "Москва, Большой Трёхсвятительский переулок, 2/1с8",
+                    "metro": null,
+                    "metro_stations": [],
+                    "id": "16852454"
+                },
+                "response_url": null,
+                "sort_point_distance": null,
+                "published_at": "2024-11-16T15:13:51+0300",
+                "created_at": "2024-11-16T15:13:51+0300",
+                "archived": false,
+                "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109560982",
+                "show_logo_in_search": null,
+                "insider_interview": null,
+                "url": "https://api.hh.ru/vacancies/109560982?host=hh.ru",
+                "alternate_url": "https://hh.ru/vacancy/109560982",
+                "relations": [],
+                "employer": {
+                    "id": "9677861",
+                    "name": "036Kebab",
+                    "url": "https://api.hh.ru/employers/9677861",
+                    "alternate_url": "https://hh.ru/employer/9677861",
+                    "logo_urls": {
+                        "90": "https://img.hhcdn.ru/employer-logo/7020306.png",
+                        "original": "https://img.hhcdn.ru/employer-logo-original/1350091.png",
+                        "240": "https://img.hhcdn.ru/employer-logo/7020307.png"
+                    },
+                    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9677861",
+                    "accredited_it_employer": false,
+                    "trusted": true
+                },
+                "snippet": {
+                    "requirement": null,
+                    "responsibility": "Обязанности: Контроль работы персонала кухни, процесса приготовления и качества отдачи блюд в зал. Контроль работы всех подразделений кухни, решение рабочих..."
+                },
+                "contacts": null,
+                "schedule": {
+                    "id": "fullDay",
+                    "name": "Полный день"
+                },
+                "working_days": [],
+                "working_time_intervals": [],
+                "working_time_modes": [],
+                "accept_temporary": false,
+                "professional_roles": [
+                    {
+                        "id": "94",
+                        "name": "Повар, пекарь, кондитер"
+                    }
+                ],
+                "accept_incomplete_resumes": true,
+                "experience": {
+                    "id": "between1And3",
+                    "name": "От 1 года до 3 лет"
+                },
+                "employment": {
+                    "id": "full",
+                    "name": "Полная занятость"
+                },
+                "adv_response_url": null,
+                "is_adv_vacancy": false,
+                "adv_context": null
+            }
+        ]
+    }
+]
